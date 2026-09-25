@@ -8,6 +8,7 @@ Incluye menú para poder:
 5. Botón para poder salir del programa y finalizarlo.
 
 ¿Cómo funciona?
+
 insertarElemento(mes, depto, monto): Asigna un valor numérico a la coordenada específica de la matriz. Valida internamente que los índices correspondan a un mes y departamento válidos antes de guardar el registro.
 
 buscarElemento(monto): Recorre toda la matriz bidimensional mediante dos ciclos anidados. Compara cada celda con el monto solicitado e imprime todas las coincidencias encontradas (mes y departamento).
